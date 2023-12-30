@@ -1,0 +1,9 @@
+li a {
+    color: whitesmoke;
+    /* background-size: cover; */
+    /*background-position: center center;*/
+}
+
+body {
+    background: white url("images/background.png") no-repeat;
+}
